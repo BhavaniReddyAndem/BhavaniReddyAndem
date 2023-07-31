@@ -6,7 +6,8 @@
 
 
 
-Joke of the day  -  ![Jokes Card](https://readme-jokes.vercel.app/api)
+Joke of the day  -  
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
