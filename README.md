@@ -7,11 +7,11 @@
 
 
   
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavaniReddyAndem&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavaniReddyAndem&theme=blue-green)   ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BhavaniReddyAndem)
 
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
