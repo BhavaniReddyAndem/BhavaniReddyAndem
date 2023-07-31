@@ -7,7 +7,8 @@
 
 
   
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavaniReddyAndem&theme=blue-green)   ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavaniReddyAndem&theme=blue-green)   
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
