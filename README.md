@@ -11,3 +11,7 @@
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BhavaniReddyAndem)
+
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
